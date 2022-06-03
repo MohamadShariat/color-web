@@ -482,6 +482,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 1fr;
+  gap: 16px;
 }
 
 .services__card {
@@ -570,3 +571,5 @@
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+/* Footer CSS */
