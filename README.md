@@ -8,8 +8,7 @@
 
 ## Website
 
-https://mohamadshariat.github.io/run-buddy/
-
+https://mohamadshariat.github.io/color-web/
 
 ## Contribution
 
